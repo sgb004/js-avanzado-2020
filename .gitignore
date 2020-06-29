@@ -1,6 +1,4 @@
 /node_modules
-/package-lock.json
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,windows,macos,composer
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,windows,macos,composer
